@@ -1,0 +1,14 @@
+
+img {
+  display: inline-flex;
+  top:  60px;
+  left: 50px;
+  width: 100px;
+}
+
+.inicio {
+display: flex;
+align-items: center;
+justify-content: space-between;
+align-self: center;
+}
